@@ -52,7 +52,6 @@ Points:
 This project is licensed under the Saurav Solanki License - see the LICENSE.md file for details
 
 ## Acknowledgments
-* [mlflow](https://github.com/mlflow/mlflow)
-* [tensorflow](https://github.com/tensorflow/tensorflow)
-* [prefect](https://github.com/PrefectHQ/prefect)
+* [Celery](https://docs.celeryq.dev/en/stable/getting-started/introduction.html)
+* [Redis](https://redis.com/)
 * [docker](https://github.com/docker)
